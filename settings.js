@@ -23,14 +23,14 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
+  global.ownername = 'KAYSZ BOT' // Ganti Jadi Namamu
   global.owner = ['6285791338937','6285791338937','6285791338937'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285791338937' // Owner Utama Istilahnya
   global.botname = 'KAYSZ BOT' // Ganti Jadi Nama Botmu
   global.packname = 'KAYSZ BOT' // Sticker Weem
   global.author = 'KAYSZ BOT' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/GSdWRBfAY339UI45oefR12' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCXecmWlOoL8g-yfs1I9kZ0w' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
